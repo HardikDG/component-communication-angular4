@@ -1,6 +1,8 @@
 
 
-# Component communication - @Input()/@Output()/@ViewChild() etc...
+# Component communication 
+
+ - @Input()/@Output()/@ViewChild() etc...
 
 ## Install and setup
 
